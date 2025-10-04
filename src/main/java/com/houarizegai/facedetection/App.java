@@ -23,7 +23,7 @@ public class App extends Application {
         } catch (IOException ioe) {
             ioe.printStackTrace();
         }
-        stage.setTitle("Face Detection");
+        stage.setTitle("Face Detection 5435A");
         stage.show();
     }
 
